@@ -4,9 +4,6 @@
 
 ## 📊 GitHub Stats
 
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ![](https://github-readme-stats.vercel.app/api?username=niravariya07&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niravariya07&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niravariya07&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
