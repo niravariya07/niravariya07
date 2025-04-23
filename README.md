@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=5C4033&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Nidhi+%F0%9F%91%8B;Exploring+the+World+of+Data+Science+%F0%9F%94%8E;AI+Makes+Me+Think%2C+Music+Makes+Me+Feel+%F0%9F%8E%B6;Building+Smart+Projects+%F0%9F%A4%96;Always+Learning%2C+Always+Creating+%E2%9C%A8)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=5C4033&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Ni+%F0%9F%91%8B;Exploring+the+World+of+Data+Science+%F0%9F%94%8E;AI+Makes+Me+Think%2C+Music+Makes+Me+Feel+%F0%9F%8E%B6;Building+Smart+Projects+%F0%9F%A4%96;Always+Learning%2C+Always+Creating+%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
 
 ## 📊 GitHub Stats
 
