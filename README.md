@@ -1,4 +1,4 @@
-## Hello Folks, I'm Ni
+## Hello Folks, I'm Nidhi
 - Really into music
 - Loves noticing the little things and figuring stuff out
 - Always learning something new, always creating
